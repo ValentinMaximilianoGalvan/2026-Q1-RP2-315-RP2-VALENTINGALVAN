@@ -84,7 +84,7 @@ def menu():
             eliminar_libro(libro)    
 
 
-
+menu()
 
 
 
